@@ -18,9 +18,11 @@ This project demonstrates a simple, from-scratch implementation of the TinyVGG a
 
 Trained for a total of 3 epochs
 
-Model         | Accuracy
-Baseline      | ~95%
-TinyVGG (CNN) | ~98%
+|             Model           |    Accuracy   |
+|-----------------------------|---------------|
+| **Baseline**                | ~95%          |
+| **TinyVGG**                 | ~97%          |
+
 
 ## 🧰 Tech Stack
 
