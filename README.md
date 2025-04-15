@@ -18,14 +18,13 @@ This project demonstrates a simple, from-scratch implementation of the TinyVGG a
 
 - **Training accuracy**: ~98%
 - **Test accuracy**: ~97%
-- Visualizations included for loss/accuracy curves
 
 ## 🧰 Tech Stack
 
 - Python 3
 - PyTorch
-- Matplotlib (for visualizations)
-- Torchvision (for MNIST dataset)
+- `scikit-learn`
+- `Torchvision`
 
 ## 📌 Credits
 
