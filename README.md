@@ -20,8 +20,8 @@ Trained for a total of 3 epochs
 
 |             Model           |    Accuracy   |
 |-----------------------------|---------------|
-| **Baseline**                | ~95%          |
-| **TinyVGG**                 | ~97%          |
+| **Baseline**                | ~92%          |
+| **TinyVGG**                 | ~98%          |
 
 
 ## 🧰 Tech Stack
