@@ -16,8 +16,11 @@ This project demonstrates a simple, from-scratch implementation of the TinyVGG a
 
 ## 📊 Results
 
-- **Training accuracy**: ~98%
-- **Test accuracy**: ~97%
+Trained for a total of 3 epochs
+
+Model         | Accuracy
+Baseline      | ~95%
+TinyVGG (CNN) | ~98%
 
 ## 🧰 Tech Stack
 
